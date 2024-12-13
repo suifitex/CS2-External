@@ -28,8 +28,8 @@
     "dwNetworkGameClient_maxClients": 568,
     "dwNetworkGameClient_serverTickCount": 876,
     "dwNetworkGameClient_signOnState": 552,
-    "dwWindowHeight": 6373580,
-    "dwWindowWidth": 6373576
+    "dwWindowHeight": 6373556,
+    "dwWindowWidth": 6373552
   },
   "inputsystem.dll": {
     "dwInputSystem": 231392
