@@ -30,7 +30,7 @@
             "type_name": "string_t"
           }
         ],
-        "parent": ""
+        "parent": null
       },
       "CAnimGraphNetworkedVariables": {
         "fields": {
